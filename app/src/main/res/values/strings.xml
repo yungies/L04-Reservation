@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="confirm">confirm</string>
+    <string name="reset">reset</string>
+    <string name="display_time">display time</string>
+    <string name="display_date">display date</string>
+    <string name="non_smoker">non smoker</string>
+    <string name="smoker">smoker</string>
+    <string name="name">name</string>
+</resources>
